@@ -11,8 +11,8 @@ I build project-based software with React, Node.js and MySQL, including Android 
 
 | Project | What it does | My work |
 | --- | --- | --- |
-| **PaintOps** | Web and Android application for paintball users, teams, matches and reservations. | Project development using React, Express, MySQL and Capacitor. |
-| **CantantesApp** | Shared event agenda: artists consult upcoming events while the organizing team manages the schedule. | Mobile application development for artists and organizers. |
+| [**PaintOps**](https://github.com/TheParranda05/PaintOps) | Web and Android application for paintball users, teams, matches and reservations. | Project development using React, Express, MySQL and Capacitor. |
+| [**CantantesApp**](https://github.com/TheParranda05/CantantesApp) | Shared event agenda: artists consult upcoming events while the organizing team manages the schedule. | Mobile application development for artists and organizers. |
 | **Blockchain project** | A learning project exploring blockchain through code. | Developed code with AI assistance as part of my learning process. |
 
 My development experience comes from projects. I am looking to bring that experience into a professional team and keep improving through feedback and collaboration.
